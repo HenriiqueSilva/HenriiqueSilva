@@ -2,7 +2,7 @@
 
 
 
-Me chamo Henrique Morais Silva, tenho 20 anos e sou natural do Maranhâo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no UniFacema. Sou apaixonado por tecnologia.
+Me chamo Henrique Morais Silva. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no UniFacema. Sou apaixonado por tecnologia.
 
 <p align="left">
    <p align="left">
