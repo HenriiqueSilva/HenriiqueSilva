@@ -6,8 +6,8 @@ Me chamo Henrique Morais Silva. Atualmente, estou cursando Análise e Desenvolvi
 
 <p align="left">
    <p align="left">
-    <a href="https://github.com/riccksilva?tab=reposito">
-    <a href="https://github.com/riccksilva?tab=repositories">
+    <a href="https://github.com/HenriqueSilva?tab=reposito">
+    <a href="https://github.com/HenriiqueSilva?tab=repositories">
         <img 
             alt="Seguidores" 
             title="Repositórios" 
@@ -80,7 +80,7 @@ Me chamo Henrique Morais Silva. Atualmente, estou cursando Análise e Desenvolvi
     alt="GitHub Stats" 
     height="190" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=riccksilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=HenriiqueSilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
