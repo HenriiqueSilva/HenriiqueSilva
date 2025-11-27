@@ -87,7 +87,7 @@ Me chamo Henrique Morais Silva. Atualmente, estou cursando Análise e Desenvolvi
       align="left" 
       alt="GitHub Stats" 
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccksilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriiqueSilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 
 </p>
